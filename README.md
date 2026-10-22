@@ -1,5 +1,9 @@
-# Capstone Project: Customer Data Analysis (Insights) 
+# Capstone Project: Customer Data Analysis
 
+# Dataset 
+The dataset contains shopping information from 10 different shopping malls. Data is from various age groups and genders to provide a comprehensive view of shopping habits.
+
+# Insights 
 • The shopping distribution by gender are 620 customers are female and 
 380 are male, with female customers representing the larger share of the 
 shopping mall's customer base. 
